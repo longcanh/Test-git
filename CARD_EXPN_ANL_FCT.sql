@@ -1,5 +1,8 @@
 -- test push code
 --test new branch
+--feature-230425
+--test lần 2
+--feature-230425_1
 select
     CDR_DT_DIM_ID,
 	OU_DIM_ID,
