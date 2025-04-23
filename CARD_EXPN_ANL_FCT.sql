@@ -1,3 +1,4 @@
+-- test push code
 select
     CDR_DT_DIM_ID,
 	OU_DIM_ID,
